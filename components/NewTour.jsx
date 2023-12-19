@@ -5,7 +5,7 @@ import {
   getExistingTour,
   generateTourResponse,
   createNewTour,
-} from '@/utils/action';
+} from '@/utils/actions';
 
 import TourInfo from './TourInfo';
 
